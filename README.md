@@ -5,8 +5,7 @@
 * Lets go to github.com
 * Create an account
 * Create a repository with name : mygitplay
-* Update readme.md (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* Add the person next to you in the class to be your collaborator (click on setting).
+* Update readme.md
 ### Remote: Step-02: First file (central repository on Github.com) 
 * Create a new file file1.txt
 * Commit it.
